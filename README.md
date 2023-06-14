@@ -1,5 +1,5 @@
 ### Hi there 👋
-Olá, Me chame Felipe ...
+
 <div>
 <a href="https://github.com/fmalcantara">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmalcantara&layout=compact&langs_count=7&theme=radical"/>
